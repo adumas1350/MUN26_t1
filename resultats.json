@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:21:15",
+  "mise_a_jour": "00:26:15",
   "communes": [
     {
       "code": "01053",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 81.17
+      "pourcentage": 82.35
     },
     {
       "code": "38151",
@@ -314,12 +314,12 @@
     {
       "code": "69256",
       "nom": "Vaulx-en-Velin",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "69259",
       "nom": "Vénissieux",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "69266",
