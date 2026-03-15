@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:01:15",
+  "mise_a_jour": "23:06:15",
   "communes": [
     {
       "code": "01053",
@@ -99,7 +99,7 @@
     {
       "code": "31555",
       "nom": "Toulouse",
-      "pourcentage": 68.07
+      "pourcentage": 81.05
     },
     {
       "code": "33039",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 34.22
+      "pourcentage": 38.25
     },
     {
       "code": "68066",
@@ -384,7 +384,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 71.23
+      "pourcentage": 89.04
     },
     {
       "code": "83061",
