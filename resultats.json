@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:06:15",
+  "mise_a_jour": "00:11:15",
   "communes": [
     {
       "code": "01053",
@@ -119,7 +119,7 @@
     {
       "code": "34172",
       "nom": "Montpellier",
-      "pourcentage": 53.23
+      "pourcentage": 53.95
     },
     {
       "code": "35238",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 72.94
+      "pourcentage": 80.0
     },
     {
       "code": "38151",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 87.91
+      "pourcentage": 98.65
     },
     {
       "code": "68066",
@@ -429,7 +429,7 @@
     {
       "code": "91235",
       "nom": "Fleury-Mérogis",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "91286",
