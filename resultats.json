@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:21:15",
+  "mise_a_jour": "23:26:14",
   "communes": [
     {
       "code": "01053",
@@ -99,7 +99,7 @@
     {
       "code": "31555",
       "nom": "Toulouse",
-      "pourcentage": 81.05
+      "pourcentage": 91.22
     },
     {
       "code": "33039",
@@ -114,7 +114,7 @@
     {
       "code": "34032",
       "nom": "Béziers",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "34172",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 57.64
+      "pourcentage": 61.17
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 24.39
+      "pourcentage": 29.26
     },
     {
       "code": "38421",
@@ -244,7 +244,7 @@
     {
       "code": "06088",
       "nom": "Nice",
-      "pourcentage": 17.18
+      "pourcentage": 44.14
     },
     {
       "code": "60057",
@@ -289,7 +289,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 96.42
+      "pourcentage": 98.21
     },
     {
       "code": "66136",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 55.7
+      "pourcentage": 61.07
     },
     {
       "code": "68066",
@@ -384,7 +384,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 91.78
+      "pourcentage": 94.52
     },
     {
       "code": "83061",
@@ -474,7 +474,7 @@
     {
       "code": "93027",
       "nom": "La Courneuve",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "93048",
