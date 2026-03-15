@@ -1,15 +1,15 @@
 {
-  "mise_a_jour": "21:24:35",
+  "mise_a_jour": "21:29:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 55.55
+      "pourcentage": 63.88
     },
     {
       "code": "11262",
       "nom": "Narbonne",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "13004",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 6.89
+      "pourcentage": 10.34
     },
     {
       "code": "56121",
@@ -254,7 +254,7 @@
     {
       "code": "62498",
       "nom": "Lens",
-      "pourcentage": 50.0
+      "pourcentage": 63.63
     },
     {
       "code": "62570",
@@ -269,12 +269,12 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 32.14
+      "pourcentage": 41.07
     },
     {
       "code": "66136",
       "nom": "Perpignan",
-      "pourcentage": 86.84
+      "pourcentage": 94.73
     },
     {
       "code": "67482",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 27.39
+      "pourcentage": 28.76
     },
     {
       "code": "83061",
