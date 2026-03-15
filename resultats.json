@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "22:14:34",
+  "mise_a_jour": "22:19:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 94.44
+      "pourcentage": 97.22
     },
     {
       "code": "11262",
@@ -24,7 +24,7 @@
     {
       "code": "13056",
       "nom": "Martigues",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "13077",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 28.12
+      "pourcentage": 33.33
     },
     {
       "code": "22113",
@@ -89,7 +89,7 @@
     {
       "code": "31555",
       "nom": "Toulouse",
-      "pourcentage": 0.0
+      "pourcentage": 23.15
     },
     {
       "code": "33039",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 75.86
+      "pourcentage": 77.58
     },
     {
       "code": "56121",
@@ -264,12 +264,12 @@
     {
       "code": "63113",
       "nom": "Clermont-Ferrand",
-      "pourcentage": 90.0
+      "pourcentage": 95.71
     },
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 78.57
+      "pourcentage": 82.14
     },
     {
       "code": "66136",
@@ -344,7 +344,7 @@
     {
       "code": "76575",
       "nom": "Saint-Etienne-du-Rouvray",
-      "pourcentage": 40.0
+      "pourcentage": 100.0
     },
     {
       "code": "76711",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 45.2
+      "pourcentage": 47.94
     },
     {
       "code": "83061",
