@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:36:16",
+  "mise_a_jour": "23:41:15",
   "communes": [
     {
       "code": "01053",
@@ -124,12 +124,12 @@
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 92.17
+      "pourcentage": 100.0
     },
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 64.7
+      "pourcentage": 65.88
     },
     {
       "code": "38151",
@@ -199,7 +199,7 @@
     {
       "code": "59009",
       "nom": "Villeneuve-d'Ascq",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59183",
@@ -219,7 +219,7 @@
     {
       "code": "59350",
       "nom": "Lille",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59491",
@@ -244,7 +244,7 @@
     {
       "code": "06088",
       "nom": "Nice",
-      "pourcentage": 44.14
+      "pourcentage": 83.98
     },
     {
       "code": "60057",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 65.1
+      "pourcentage": 66.44
     },
     {
       "code": "68066",
