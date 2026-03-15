@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:56:15",
+  "mise_a_jour": "00:01:15",
   "communes": [
     {
       "code": "01053",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 69.41
+      "pourcentage": 71.76
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 42.68
+      "pourcentage": 46.34
     },
     {
       "code": "38421",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 81.2
+      "pourcentage": 85.23
     },
     {
       "code": "68066",
@@ -484,7 +484,7 @@
     {
       "code": "93053",
       "nom": "Noisy-le-Sec",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "93066",
