@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "21:09:34",
+  "mise_a_jour": "21:14:35",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 41.66
+      "pourcentage": 52.77
     },
     {
       "code": "11262",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 0.0
+      "pourcentage": 2.08
     },
     {
       "code": "22113",
@@ -184,7 +184,7 @@
     {
       "code": "56121",
       "nom": "Lorient",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59009",
@@ -214,7 +214,7 @@
     {
       "code": "59491",
       "nom": "Raismes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59512",
@@ -224,7 +224,7 @@
     {
       "code": "59526",
       "nom": "Saint-Amand-les-Eaux",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "60057",
@@ -264,17 +264,17 @@
     {
       "code": "63113",
       "nom": "Clermont-Ferrand",
-      "pourcentage": 77.14
+      "pourcentage": 80.0
     },
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 8.92
+      "pourcentage": 23.21
     },
     {
       "code": "66136",
       "nom": "Perpignan",
-      "pourcentage": 78.94
+      "pourcentage": 86.84
     },
     {
       "code": "67482",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 19.17
+      "pourcentage": 23.28
     },
     {
       "code": "83061",
