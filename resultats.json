@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "21:14:35",
+  "mise_a_jour": "21:19:34",
   "communes": [
     {
       "code": "11069",
@@ -119,7 +119,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 1.17
+      "pourcentage": 2.35
     },
     {
       "code": "38151",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 4.95
+      "pourcentage": 8.91
     },
     {
       "code": "44109",
@@ -254,7 +254,7 @@
     {
       "code": "62498",
       "nom": "Lens",
-      "pourcentage": 18.18
+      "pourcentage": 36.36
     },
     {
       "code": "62570",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 23.21
+      "pourcentage": 30.35
     },
     {
       "code": "66136",
@@ -319,7 +319,7 @@
     {
       "code": "76217",
       "nom": "Dieppe",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "76259",
@@ -419,6 +419,31 @@
     {
       "code": "91345",
       "nom": "Longjumeau",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "92007",
+      "nom": "Bagneux",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "92025",
+      "nom": "Colombes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "92036",
+      "nom": "Gennevilliers",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "92046",
+      "nom": "Malakoff",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "92050",
+      "nom": "Nanterre",
       "pourcentage": 0.0
     },
     {
