@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:16:15",
+  "mise_a_jour": "23:21:15",
   "communes": [
     {
       "code": "01053",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 52.94
+      "pourcentage": 57.64
     },
     {
       "code": "38151",
@@ -164,7 +164,7 @@
     {
       "code": "44109",
       "nom": "Nantes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "45208",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 47.65
+      "pourcentage": 55.7
     },
     {
       "code": "68066",
