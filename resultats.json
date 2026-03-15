@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "22:39:34",
+  "mise_a_jour": "22:44:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 97.22
+      "pourcentage": 100.0
     },
     {
       "code": "11262",
@@ -99,7 +99,7 @@
     {
       "code": "33063",
       "nom": "Bordeaux",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "34032",
@@ -129,7 +129,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 12.19
+      "pourcentage": 15.85
     },
     {
       "code": "38421",
@@ -194,7 +194,7 @@
     {
       "code": "59183",
       "nom": "Dunkerque",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59220",
@@ -264,12 +264,12 @@
     {
       "code": "63113",
       "nom": "Clermont-Ferrand",
-      "pourcentage": 95.71
+      "pourcentage": 100.0
     },
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 92.85
+      "pourcentage": 94.64
     },
     {
       "code": "66136",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 22.81
+      "pourcentage": 25.5
     },
     {
       "code": "68066",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 57.53
+      "pourcentage": 65.75
     },
     {
       "code": "83061",
@@ -419,7 +419,7 @@
     {
       "code": "91345",
       "nom": "Longjumeau",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "92007",
