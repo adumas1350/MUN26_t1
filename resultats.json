@@ -1,6 +1,11 @@
 {
-  "mise_a_jour": "22:54:34",
+  "mise_a_jour": "22:56:08",
   "communes": [
+    {
+      "code": "01053",
+      "nom": "Bourg-en-Bresse",
+      "pourcentage": 100.0
+    },
     {
       "code": "11069",
       "nom": "Carcassonne",
@@ -77,6 +82,11 @@
       "pourcentage": 100.0
     },
     {
+      "code": "03190",
+      "nom": "Moulins",
+      "pourcentage": 100.0
+    },
+    {
       "code": "30007",
       "nom": "Alès",
       "pourcentage": 100.0
@@ -119,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 42.35
+      "pourcentage": 43.52
     },
     {
       "code": "38151",
@@ -225,6 +235,16 @@
       "code": "59526",
       "nom": "Saint-Amand-les-Eaux",
       "pourcentage": 100.0
+    },
+    {
+      "code": "06083",
+      "nom": "Menton",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "06088",
+      "nom": "Nice",
+      "pourcentage": 0.0
     },
     {
       "code": "60057",
@@ -414,7 +434,7 @@
     {
       "code": "91286",
       "nom": "Grigny",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "91345",
