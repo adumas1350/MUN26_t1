@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:56:08",
+  "mise_a_jour": "23:01:15",
   "communes": [
     {
       "code": "01053",
@@ -19,7 +19,7 @@
     {
       "code": "13004",
       "nom": "Arles",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "13055",
@@ -54,7 +54,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 53.12
+      "pourcentage": 95.83
     },
     {
       "code": "22113",
@@ -534,7 +534,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 66.66
+      "pourcentage": 73.33
     }
   ]
 }
