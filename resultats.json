@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:11:15",
+  "mise_a_jour": "23:16:15",
   "communes": [
     {
       "code": "01053",
@@ -94,7 +94,7 @@
     {
       "code": "30189",
       "nom": "Nîmes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "31555",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 49.41
+      "pourcentage": 52.94
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 20.73
+      "pourcentage": 24.39
     },
     {
       "code": "38421",
@@ -384,7 +384,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 90.41
+      "pourcentage": 91.78
     },
     {
       "code": "83061",
@@ -399,7 +399,7 @@
     {
       "code": "84007",
       "nom": "Avignon",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "86066",
@@ -409,7 +409,7 @@
     {
       "code": "86194",
       "nom": "Poitiers",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "87085",
