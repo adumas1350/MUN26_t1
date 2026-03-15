@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "21:19:34",
+  "mise_a_jour": "21:24:35",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 52.77
+      "pourcentage": 55.55
     },
     {
       "code": "11262",
@@ -44,7 +44,7 @@
     {
       "code": "18279",
       "nom": "Vierzon",
-      "pourcentage": 96.29
+      "pourcentage": 100.0
     },
     {
       "code": "21231",
@@ -59,7 +59,7 @@
     {
       "code": "25056",
       "nom": "Besançon",
-      "pourcentage": 69.11
+      "pourcentage": 91.17
     },
     {
       "code": "26107",
@@ -114,7 +114,7 @@
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 0.0
+      "pourcentage": 2.6
     },
     {
       "code": "37261",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 8.91
+      "pourcentage": 19.8
     },
     {
       "code": "44109",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 5.17
+      "pourcentage": 6.89
     },
     {
       "code": "56121",
@@ -254,7 +254,7 @@
     {
       "code": "62498",
       "nom": "Lens",
-      "pourcentage": 36.36
+      "pourcentage": 50.0
     },
     {
       "code": "62570",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 30.35
+      "pourcentage": 32.14
     },
     {
       "code": "66136",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 23.28
+      "pourcentage": 27.39
     },
     {
       "code": "83061",
@@ -444,6 +444,36 @@
     {
       "code": "92050",
       "nom": "Nanterre",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "94011",
+      "nom": "Bonneuil-sur-Marne",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "94017",
+      "nom": "Champigny-sur-Marne",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "94033",
+      "nom": "Fontenay-sous-Bois",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "94041",
+      "nom": "Ivry-sur-Seine",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "94076",
+      "nom": "Villejuif",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "94081",
+      "nom": "Vitry-sur-Seine",
       "pourcentage": 0.0
     },
     {
