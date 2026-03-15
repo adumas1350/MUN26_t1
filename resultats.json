@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "21:59:34",
+  "mise_a_jour": "22:04:34",
   "communes": [
     {
       "code": "11069",
@@ -69,7 +69,7 @@
     {
       "code": "26281",
       "nom": "Romans-sur-Isère",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "29019",
@@ -119,7 +119,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 10.58
+      "pourcentage": 12.94
     },
     {
       "code": "38151",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 63.79
+      "pourcentage": 70.68
     },
     {
       "code": "56121",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 64.28
+      "pourcentage": 73.21
     },
     {
       "code": "66136",
@@ -344,7 +344,7 @@
     {
       "code": "76575",
       "nom": "Saint-Etienne-du-Rouvray",
-      "pourcentage": 0.0
+      "pourcentage": 10.0
     },
     {
       "code": "76711",
@@ -479,7 +479,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 6.66
+      "pourcentage": 20.0
     }
   ]
 }
