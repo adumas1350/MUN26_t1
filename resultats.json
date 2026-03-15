@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:46:15",
+  "mise_a_jour": "23:51:15",
   "communes": [
     {
       "code": "01053",
@@ -99,7 +99,7 @@
     {
       "code": "31555",
       "nom": "Toulouse",
-      "pourcentage": 91.22
+      "pourcentage": 94.73
     },
     {
       "code": "33039",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 71.81
+      "pourcentage": 74.49
     },
     {
       "code": "68066",
