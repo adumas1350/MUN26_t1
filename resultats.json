@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:26:15",
+  "mise_a_jour": "00:31:15",
   "communes": [
     {
       "code": "01053",
@@ -24,7 +24,7 @@
     {
       "code": "13055",
       "nom": "Marseille",
-      "pourcentage": 0.0
+      "pourcentage": 19.91
     },
     {
       "code": "13056",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 82.35
+      "pourcentage": 84.7
     },
     {
       "code": "38151",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 99.32
+      "pourcentage": 100.0
     },
     {
       "code": "68066",
@@ -419,7 +419,7 @@
     {
       "code": "91174",
       "nom": "Corbeil-Essonnes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "91228",
@@ -499,7 +499,7 @@
     {
       "code": "93073",
       "nom": "Tremblay-en-France",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "94011",
