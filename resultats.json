@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:34:34",
+  "mise_a_jour": "22:39:34",
   "communes": [
     {
       "code": "11069",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 37.5
+      "pourcentage": 50.0
     },
     {
       "code": "22113",
@@ -114,7 +114,7 @@
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 28.69
+      "pourcentage": 50.43
     },
     {
       "code": "37261",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 94.82
+      "pourcentage": 96.55
     },
     {
       "code": "56121",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 18.79
+      "pourcentage": 22.81
     },
     {
       "code": "68066",
@@ -514,7 +514,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 60.0
+      "pourcentage": 66.66
     }
   ]
 }
