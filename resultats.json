@@ -1,4 +1,430 @@
 {
-  "mise_a_jour": "20:40:56",
-  "communes": []
+  "mise_a_jour": "20:49:26",
+  "communes": [
+    {
+      "code": "11069",
+      "nom": "Carcassonne",
+      "pourcentage": 13.88
+    },
+    {
+      "code": "11262",
+      "nom": "Narbonne",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "13004",
+      "nom": "Arles",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "13055",
+      "nom": "Marseille",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "13056",
+      "nom": "Martigues",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "13077",
+      "nom": "Port-de-Bouc",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "14118",
+      "nom": "Caen",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "18033",
+      "nom": "Bourges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "18279",
+      "nom": "Vierzon",
+      "pourcentage": 81.48
+    },
+    {
+      "code": "21231",
+      "nom": "Dijon",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "22113",
+      "nom": "Lannion",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "25056",
+      "nom": "Besançon",
+      "pourcentage": 32.35
+    },
+    {
+      "code": "26107",
+      "nom": "Crépol",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "26281",
+      "nom": "Romans-sur-Isère",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "29019",
+      "nom": "Brest",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "30007",
+      "nom": "Alès",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "30189",
+      "nom": "Nîmes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "31555",
+      "nom": "Toulouse",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "33039",
+      "nom": "Bègles",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "33063",
+      "nom": "Bordeaux",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "34032",
+      "nom": "Béziers",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "34172",
+      "nom": "Montpellier",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "35238",
+      "nom": "Rennes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "37261",
+      "nom": "Tours",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "38151",
+      "nom": "Echirolles",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "38185",
+      "nom": "Grenoble",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "38421",
+      "nom": "Saint-Martin-d'Hères",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "40192",
+      "nom": "Mont-de-Marsan",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "40312",
+      "nom": "Tarnos",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "42218",
+      "nom": "Saint-Etienne",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "44109",
+      "nom": "Nantes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "45208",
+      "nom": "Montargis",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "45234",
+      "nom": "Orléans",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "47001",
+      "nom": "Agen",
+      "pourcentage": 95.83
+    },
+    {
+      "code": "51454",
+      "nom": "Reims",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "54395",
+      "nom": "Nancy",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "56121",
+      "nom": "Lorient",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59009",
+      "nom": "Villeneuve-d'Ascq",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59183",
+      "nom": "Dunkerque",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59220",
+      "nom": "Faches-Thumesnil",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59271",
+      "nom": "Grande-Synthe",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59350",
+      "nom": "Lille",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59491",
+      "nom": "Raismes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59512",
+      "nom": "Roubaix",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "59526",
+      "nom": "Saint-Amand-les-Eaux",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "60057",
+      "nom": "Beauvais",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "62065",
+      "nom": "Avion",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "62160",
+      "nom": "Boulogne-sur-Mer",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "62193",
+      "nom": "Calais",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "62427",
+      "nom": "Hénin-Beaumont",
+      "pourcentage": 85.0
+    },
+    {
+      "code": "62498",
+      "nom": "Lens",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "62570",
+      "nom": "Méricourt",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "63113",
+      "nom": "Clermont-Ferrand",
+      "pourcentage": 58.57
+    },
+    {
+      "code": "64445",
+      "nom": "Pau",
+      "pourcentage": 3.57
+    },
+    {
+      "code": "66136",
+      "nom": "Perpignan",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "67482",
+      "nom": "Strasbourg",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "68066",
+      "nom": "Colmar",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "69123",
+      "nom": "Lyon",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "69256",
+      "nom": "Vaulx-en-Velin",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "69259",
+      "nom": "Vénissieux",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "69266",
+      "nom": "Villeurbanne",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "72003",
+      "nom": "Allonnes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "74010",
+      "nom": "Annecy",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "76217",
+      "nom": "Dieppe",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "76259",
+      "nom": "Fécamp",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "76341",
+      "nom": "Harfleur",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "76351",
+      "nom": "Le Havre",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "76540",
+      "nom": "Rouen",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "76575",
+      "nom": "Saint-Etienne-du-Rouvray",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "76711",
+      "nom": "Le Tréport",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "77294",
+      "nom": "Mitry-Mory",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "78621",
+      "nom": "Trappes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "80021",
+      "nom": "Amiens",
+      "pourcentage": 6.84
+    },
+    {
+      "code": "83061",
+      "nom": "Fréjus",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "83137",
+      "nom": "Toulon",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "84007",
+      "nom": "Avignon",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "86066",
+      "nom": "Châtellerault",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "86194",
+      "nom": "Poitiers",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "87085",
+      "nom": "Limoges",
+      "pourcentage": 100.0
+    },
+    {
+      "code": "91174",
+      "nom": "Corbeil-Essonnes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "91228",
+      "nom": "Evry-Courcouronnes",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "91235",
+      "nom": "Fleury-Mérogis",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "91286",
+      "nom": "Grigny",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "91345",
+      "nom": "Longjumeau",
+      "pourcentage": 0.0
+    },
+    {
+      "code": "95680",
+      "nom": "Villiers-le-Bel",
+      "pourcentage": 0.0
+    }
+  ]
 }
