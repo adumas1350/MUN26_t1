@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:06:15",
+  "mise_a_jour": "23:11:15",
   "communes": [
     {
       "code": "01053",
@@ -54,7 +54,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 95.83
+      "pourcentage": 100.0
     },
     {
       "code": "22113",
@@ -119,17 +119,17 @@
     {
       "code": "34172",
       "nom": "Montpellier",
-      "pourcentage": 0.0
+      "pourcentage": 21.58
     },
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 50.43
+      "pourcentage": 82.6
     },
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 43.52
+      "pourcentage": 49.41
     },
     {
       "code": "38151",
@@ -159,7 +159,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 82.17
+      "pourcentage": 96.03
     },
     {
       "code": "44109",
@@ -174,7 +174,7 @@
     {
       "code": "45234",
       "nom": "Orléans",
-      "pourcentage": 95.52
+      "pourcentage": 100.0
     },
     {
       "code": "47001",
@@ -189,7 +189,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 98.27
+      "pourcentage": 100.0
     },
     {
       "code": "56121",
@@ -244,7 +244,7 @@
     {
       "code": "06088",
       "nom": "Nice",
-      "pourcentage": 0.0
+      "pourcentage": 17.18
     },
     {
       "code": "60057",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 38.25
+      "pourcentage": 47.65
     },
     {
       "code": "68066",
@@ -384,7 +384,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 89.04
+      "pourcentage": 90.41
     },
     {
       "code": "83061",
@@ -444,7 +444,7 @@
     {
       "code": "92007",
       "nom": "Bagneux",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "92025",
@@ -534,7 +534,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 73.33
+      "pourcentage": 86.66
     }
   ]
 }
