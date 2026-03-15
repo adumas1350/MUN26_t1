@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:51:15",
+  "mise_a_jour": "00:56:15",
   "communes": [
     {
       "code": "01053",
@@ -24,7 +24,7 @@
     {
       "code": "13055",
       "nom": "Marseille",
-      "pourcentage": 26.76
+      "pourcentage": 32.19
     },
     {
       "code": "13056",
@@ -99,7 +99,7 @@
     {
       "code": "31555",
       "nom": "Toulouse",
-      "pourcentage": 95.78
+      "pourcentage": 97.19
     },
     {
       "code": "33039",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 87.05
+      "pourcentage": 89.41
     },
     {
       "code": "38151",
@@ -464,7 +464,7 @@
     {
       "code": "92050",
       "nom": "Nanterre",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "93008",
@@ -479,7 +479,7 @@
     {
       "code": "93048",
       "nom": "Montreuil",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "93053",
