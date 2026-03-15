@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:44:34",
+  "mise_a_jour": "22:49:34",
   "communes": [
     {
       "code": "11069",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 50.0
+      "pourcentage": 53.12
     },
     {
       "code": "22113",
@@ -164,7 +164,7 @@
     {
       "code": "45234",
       "nom": "Orléans",
-      "pourcentage": 77.61
+      "pourcentage": 95.52
     },
     {
       "code": "47001",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 25.5
+      "pourcentage": 28.85
     },
     {
       "code": "68066",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 65.75
+      "pourcentage": 71.23
     },
     {
       "code": "83061",
