@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:26:14",
+  "mise_a_jour": "23:31:14",
   "communes": [
     {
       "code": "01053",
@@ -124,7 +124,7 @@
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 82.6
+      "pourcentage": 92.17
     },
     {
       "code": "37261",
@@ -159,7 +159,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 96.03
+      "pourcentage": 100.0
     },
     {
       "code": "44109",
@@ -289,7 +289,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 98.21
+      "pourcentage": 100.0
     },
     {
       "code": "66136",
@@ -359,7 +359,7 @@
     {
       "code": "76540",
       "nom": "Rouen",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "76575",
@@ -384,7 +384,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 94.52
+      "pourcentage": 97.26
     },
     {
       "code": "83061",
@@ -534,7 +534,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 86.66
+      "pourcentage": 93.33
     }
   ]
 }
