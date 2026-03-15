@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "21:39:33",
+  "mise_a_jour": "21:44:34",
   "communes": [
     {
       "code": "11069",
@@ -29,7 +29,7 @@
     {
       "code": "13077",
       "nom": "Port-de-Bouc",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "14118",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 29.31
+      "pourcentage": 36.2
     },
     {
       "code": "56121",
@@ -234,7 +234,7 @@
     {
       "code": "62065",
       "nom": "Avion",
-      "pourcentage": 75.0
+      "pourcentage": 100.0
     },
     {
       "code": "62160",
@@ -254,7 +254,7 @@
     {
       "code": "62498",
       "nom": "Lens",
-      "pourcentage": 95.45
+      "pourcentage": 100.0
     },
     {
       "code": "62570",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 41.07
+      "pourcentage": 53.57
     },
     {
       "code": "66136",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 0.0
+      "pourcentage": 0.67
     },
     {
       "code": "68066",
