@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "21:34:33",
+  "mise_a_jour": "21:39:33",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 80.55
+      "pourcentage": 83.33
     },
     {
       "code": "11262",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 8.33
+      "pourcentage": 12.5
     },
     {
       "code": "22113",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 19.8
+      "pourcentage": 28.71
     },
     {
       "code": "44109",
@@ -174,7 +174,7 @@
     {
       "code": "51454",
       "nom": "Reims",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "54395",
@@ -199,12 +199,12 @@
     {
       "code": "59220",
       "nom": "Faches-Thumesnil",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59271",
       "nom": "Grande-Synthe",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59350",
@@ -234,7 +234,7 @@
     {
       "code": "62065",
       "nom": "Avion",
-      "pourcentage": 0.0
+      "pourcentage": 75.0
     },
     {
       "code": "62160",
@@ -254,7 +254,7 @@
     {
       "code": "62498",
       "nom": "Lens",
-      "pourcentage": 81.81
+      "pourcentage": 95.45
     },
     {
       "code": "62570",
@@ -354,7 +354,7 @@
     {
       "code": "77294",
       "nom": "Mitry-Mory",
-      "pourcentage": 0.0
+      "pourcentage": 33.33
     },
     {
       "code": "78621",
