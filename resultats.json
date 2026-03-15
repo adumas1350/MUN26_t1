@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:51:15",
+  "mise_a_jour": "23:56:15",
   "communes": [
     {
       "code": "01053",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 65.88
+      "pourcentage": 69.41
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 39.02
+      "pourcentage": 42.68
     },
     {
       "code": "38421",
@@ -239,12 +239,12 @@
     {
       "code": "06083",
       "nom": "Menton",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "06088",
       "nom": "Nice",
-      "pourcentage": 83.98
+      "pourcentage": 90.23
     },
     {
       "code": "60057",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 74.49
+      "pourcentage": 81.2
     },
     {
       "code": "68066",
@@ -424,7 +424,7 @@
     {
       "code": "91228",
       "nom": "Evry-Courcouronnes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "91235",
@@ -514,7 +514,7 @@
     {
       "code": "94033",
       "nom": "Fontenay-sous-Bois",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "94041",
