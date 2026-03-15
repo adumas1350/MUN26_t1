@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "20:49:26",
+  "mise_a_jour": "20:54:35",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 13.88
+      "pourcentage": 19.44
     },
     {
       "code": "11262",
@@ -44,7 +44,7 @@
     {
       "code": "18279",
       "nom": "Vierzon",
-      "pourcentage": 81.48
+      "pourcentage": 88.88
     },
     {
       "code": "21231",
@@ -169,7 +169,7 @@
     {
       "code": "47001",
       "nom": "Agen",
-      "pourcentage": 95.83
+      "pourcentage": 100.0
     },
     {
       "code": "51454",
@@ -264,12 +264,12 @@
     {
       "code": "63113",
       "nom": "Clermont-Ferrand",
-      "pourcentage": 58.57
+      "pourcentage": 77.14
     },
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 3.57
+      "pourcentage": 8.92
     },
     {
       "code": "66136",
@@ -309,7 +309,7 @@
     {
       "code": "72003",
       "nom": "Allonnes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "74010",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 6.84
+      "pourcentage": 10.95
     },
     {
       "code": "83061",
