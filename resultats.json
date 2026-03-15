@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "20:54:35",
+  "mise_a_jour": "20:59:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 19.44
+      "pourcentage": 30.55
     },
     {
       "code": "11262",
@@ -44,7 +44,7 @@
     {
       "code": "18279",
       "nom": "Vierzon",
-      "pourcentage": 88.88
+      "pourcentage": 92.59
     },
     {
       "code": "21231",
@@ -54,7 +54,7 @@
     {
       "code": "22113",
       "nom": "Lannion",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "25056",
@@ -249,7 +249,7 @@
     {
       "code": "62427",
       "nom": "Hénin-Beaumont",
-      "pourcentage": 85.0
+      "pourcentage": 100.0
     },
     {
       "code": "62498",
@@ -274,7 +274,7 @@
     {
       "code": "66136",
       "nom": "Perpignan",
-      "pourcentage": 0.0
+      "pourcentage": 78.94
     },
     {
       "code": "67482",
@@ -329,12 +329,12 @@
     {
       "code": "76341",
       "nom": "Harfleur",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "76351",
       "nom": "Le Havre",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "76540",
