@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "21:44:34",
+  "mise_a_jour": "21:49:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 83.33
+      "pourcentage": 88.88
     },
     {
       "code": "11262",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 12.5
+      "pourcentage": 18.75
     },
     {
       "code": "22113",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 28.71
+      "pourcentage": 37.62
     },
     {
       "code": "44109",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 36.2
+      "pourcentage": 50.0
     },
     {
       "code": "56121",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 0.67
+      "pourcentage": 1.34
     },
     {
       "code": "68066",
@@ -354,7 +354,7 @@
     {
       "code": "77294",
       "nom": "Mitry-Mory",
-      "pourcentage": 33.33
+      "pourcentage": 83.33
     },
     {
       "code": "78621",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 28.76
+      "pourcentage": 42.46
     },
     {
       "code": "83061",
@@ -479,7 +479,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 0.0
+      "pourcentage": 6.66
     }
   ]
 }
