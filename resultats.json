@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:36:15",
+  "mise_a_jour": "00:41:15",
   "communes": [
     {
       "code": "01053",
@@ -24,7 +24,7 @@
     {
       "code": "13055",
       "nom": "Marseille",
-      "pourcentage": 19.91
+      "pourcentage": 23.13
     },
     {
       "code": "13056",
@@ -119,7 +119,7 @@
     {
       "code": "34172",
       "nom": "Montpellier",
-      "pourcentage": 53.95
+      "pourcentage": 83.45
     },
     {
       "code": "35238",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 85.88
+      "pourcentage": 87.05
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 59.75
+      "pourcentage": 62.19
     },
     {
       "code": "38421",
@@ -394,7 +394,7 @@
     {
       "code": "83137",
       "nom": "Toulon",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "84007",
@@ -524,7 +524,7 @@
     {
       "code": "94076",
       "nom": "Villejuif",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "94081",
