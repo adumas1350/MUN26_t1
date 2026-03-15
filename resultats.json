@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "21:49:34",
+  "mise_a_jour": "21:54:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 88.88
+      "pourcentage": 91.66
     },
     {
       "code": "11262",
@@ -114,7 +114,7 @@
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 8.69
+      "pourcentage": 17.39
     },
     {
       "code": "37261",
@@ -134,7 +134,7 @@
     {
       "code": "38421",
       "nom": "Saint-Martin-d'Hères",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "40192",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 37.62
+      "pourcentage": 40.59
     },
     {
       "code": "44109",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 50.0
+      "pourcentage": 55.17
     },
     {
       "code": "56121",
@@ -229,7 +229,7 @@
     {
       "code": "60057",
       "nom": "Beauvais",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "62065",
@@ -244,7 +244,7 @@
     {
       "code": "62193",
       "nom": "Calais",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "62427",
@@ -264,12 +264,12 @@
     {
       "code": "63113",
       "nom": "Clermont-Ferrand",
-      "pourcentage": 80.0
+      "pourcentage": 90.0
     },
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 53.57
+      "pourcentage": 64.28
     },
     {
       "code": "66136",
@@ -354,7 +354,7 @@
     {
       "code": "77294",
       "nom": "Mitry-Mory",
-      "pourcentage": 83.33
+      "pourcentage": 100.0
     },
     {
       "code": "78621",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 42.46
+      "pourcentage": 43.83
     },
     {
       "code": "83061",
