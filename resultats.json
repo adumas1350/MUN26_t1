@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:31:14",
+  "mise_a_jour": "23:36:16",
   "communes": [
     {
       "code": "01053",
@@ -119,7 +119,7 @@
     {
       "code": "34172",
       "nom": "Montpellier",
-      "pourcentage": 21.58
+      "pourcentage": 35.97
     },
     {
       "code": "35238",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 61.17
+      "pourcentage": 64.7
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 29.26
+      "pourcentage": 32.92
     },
     {
       "code": "38421",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 61.07
+      "pourcentage": 65.1
     },
     {
       "code": "68066",
@@ -384,7 +384,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 97.26
+      "pourcentage": 100.0
     },
     {
       "code": "83061",
@@ -449,12 +449,12 @@
     {
       "code": "92025",
       "nom": "Colombes",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "92036",
       "nom": "Gennevilliers",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "92046",
@@ -519,7 +519,7 @@
     {
       "code": "94041",
       "nom": "Ivry-sur-Seine",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "94076",
