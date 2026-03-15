@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:49:34",
+  "mise_a_jour": "22:54:34",
   "communes": [
     {
       "code": "11069",
@@ -89,12 +89,12 @@
     {
       "code": "31555",
       "nom": "Toulouse",
-      "pourcentage": 23.15
+      "pourcentage": 68.07
     },
     {
       "code": "33039",
       "nom": "Bègles",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "33063",
@@ -119,7 +119,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 28.23
+      "pourcentage": 42.35
     },
     {
       "code": "38151",
@@ -129,7 +129,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 15.85
+      "pourcentage": 20.73
     },
     {
       "code": "38421",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 96.55
+      "pourcentage": 98.27
     },
     {
       "code": "56121",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 94.64
+      "pourcentage": 96.42
     },
     {
       "code": "66136",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 28.85
+      "pourcentage": 34.22
     },
     {
       "code": "68066",
