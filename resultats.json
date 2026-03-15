@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "23:41:15",
+  "mise_a_jour": "23:46:15",
   "communes": [
     {
       "code": "01053",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 32.92
+      "pourcentage": 39.02
     },
     {
       "code": "38421",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 66.44
+      "pourcentage": 71.81
     },
     {
       "code": "68066",
@@ -504,7 +504,7 @@
     {
       "code": "94011",
       "nom": "Bonneuil-sur-Marne",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "94017",
@@ -534,7 +534,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 93.33
+      "pourcentage": 100.0
     }
   ]
 }
