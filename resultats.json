@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:31:15",
+  "mise_a_jour": "00:36:15",
   "communes": [
     {
       "code": "01053",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 84.7
+      "pourcentage": 85.88
     },
     {
       "code": "38151",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 56.09
+      "pourcentage": 59.75
     },
     {
       "code": "38421",
