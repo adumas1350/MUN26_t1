@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "21:54:34",
+  "mise_a_jour": "21:59:34",
   "communes": [
     {
       "code": "11069",
       "nom": "Carcassonne",
-      "pourcentage": 91.66
+      "pourcentage": 94.44
     },
     {
       "code": "11262",
@@ -119,7 +119,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 2.35
+      "pourcentage": 10.58
     },
     {
       "code": "38151",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 55.17
+      "pourcentage": 63.79
     },
     {
       "code": "56121",
@@ -274,12 +274,12 @@
     {
       "code": "66136",
       "nom": "Perpignan",
-      "pourcentage": 94.73
+      "pourcentage": 100.0
     },
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 1.34
+      "pourcentage": 2.01
     },
     {
       "code": "68066",
