@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:04:34",
+  "mise_a_jour": "22:09:34",
   "communes": [
     {
       "code": "11069",
@@ -49,7 +49,7 @@
     {
       "code": "21231",
       "nom": "Dijon",
-      "pourcentage": 18.75
+      "pourcentage": 28.12
     },
     {
       "code": "22113",
@@ -114,7 +114,7 @@
     {
       "code": "35238",
       "nom": "Rennes",
-      "pourcentage": 17.39
+      "pourcentage": 28.69
     },
     {
       "code": "37261",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 40.59
+      "pourcentage": 59.4
     },
     {
       "code": "44109",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 70.68
+      "pourcentage": 75.86
     },
     {
       "code": "56121",
@@ -219,7 +219,7 @@
     {
       "code": "59512",
       "nom": "Roubaix",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "59526",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 2.01
+      "pourcentage": 4.69
     },
     {
       "code": "68066",
@@ -344,7 +344,7 @@
     {
       "code": "76575",
       "nom": "Saint-Etienne-du-Rouvray",
-      "pourcentage": 10.0
+      "pourcentage": 25.0
     },
     {
       "code": "76711",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 43.83
+      "pourcentage": 45.2
     },
     {
       "code": "83061",
