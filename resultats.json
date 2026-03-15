@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:41:15",
+  "mise_a_jour": "00:46:14",
   "communes": [
     {
       "code": "01053",
@@ -119,7 +119,7 @@
     {
       "code": "34172",
       "nom": "Montpellier",
-      "pourcentage": 83.45
+      "pourcentage": 93.52
     },
     {
       "code": "35238",
@@ -509,7 +509,7 @@
     {
       "code": "94017",
       "nom": "Champigny-sur-Marne",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "94033",
