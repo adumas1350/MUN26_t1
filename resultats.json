@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "20:59:34",
+  "mise_a_jour": "21:04:34",
   "communes": [
     {
       "code": "11069",
@@ -44,7 +44,7 @@
     {
       "code": "18279",
       "nom": "Vierzon",
-      "pourcentage": 92.59
+      "pourcentage": 96.29
     },
     {
       "code": "21231",
@@ -59,7 +59,7 @@
     {
       "code": "25056",
       "nom": "Besançon",
-      "pourcentage": 32.35
+      "pourcentage": 69.11
     },
     {
       "code": "26107",
@@ -179,7 +179,7 @@
     {
       "code": "54395",
       "nom": "Nancy",
-      "pourcentage": 0.0
+      "pourcentage": 1.72
     },
     {
       "code": "56121",
@@ -364,7 +364,7 @@
     {
       "code": "80021",
       "nom": "Amiens",
-      "pourcentage": 10.95
+      "pourcentage": 19.17
     },
     {
       "code": "83061",
