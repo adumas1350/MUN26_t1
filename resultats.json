@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "00:11:15",
+  "mise_a_jour": "00:16:15",
   "communes": [
     {
       "code": "01053",
@@ -129,7 +129,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 80.0
+      "pourcentage": 81.17
     },
     {
       "code": "38151",
@@ -244,7 +244,7 @@
     {
       "code": "06088",
       "nom": "Nice",
-      "pourcentage": 90.23
+      "pourcentage": 100.0
     },
     {
       "code": "60057",
@@ -299,7 +299,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 98.65
+      "pourcentage": 99.32
     },
     {
       "code": "68066",
@@ -529,7 +529,7 @@
     {
       "code": "94081",
       "nom": "Vitry-sur-Seine",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "95680",
