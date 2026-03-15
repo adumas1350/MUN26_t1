@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:29:35",
+  "mise_a_jour": "22:34:34",
   "communes": [
     {
       "code": "11069",
@@ -119,7 +119,7 @@
     {
       "code": "37261",
       "nom": "Tours",
-      "pourcentage": 18.82
+      "pourcentage": 28.23
     },
     {
       "code": "38151",
@@ -129,7 +129,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 2.43
+      "pourcentage": 12.19
     },
     {
       "code": "38421",
@@ -149,7 +149,7 @@
     {
       "code": "42218",
       "nom": "Saint-Etienne",
-      "pourcentage": 59.4
+      "pourcentage": 82.17
     },
     {
       "code": "44109",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 91.07
+      "pourcentage": 92.85
     },
     {
       "code": "66136",
@@ -279,7 +279,7 @@
     {
       "code": "67482",
       "nom": "Strasbourg",
-      "pourcentage": 9.39
+      "pourcentage": 18.79
     },
     {
       "code": "68066",
