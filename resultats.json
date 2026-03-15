@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "22:09:34",
+  "mise_a_jour": "22:14:34",
   "communes": [
     {
       "code": "11069",
@@ -34,7 +34,7 @@
     {
       "code": "14118",
       "nom": "Caen",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "18033",
@@ -124,12 +124,12 @@
     {
       "code": "38151",
       "nom": "Echirolles",
-      "pourcentage": 0.0
+      "pourcentage": 100.0
     },
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 0.0
+      "pourcentage": 2.43
     },
     {
       "code": "38421",
@@ -164,7 +164,7 @@
     {
       "code": "45234",
       "nom": "Orléans",
-      "pourcentage": 0.0
+      "pourcentage": 61.19
     },
     {
       "code": "47001",
@@ -269,7 +269,7 @@
     {
       "code": "64445",
       "nom": "Pau",
-      "pourcentage": 73.21
+      "pourcentage": 78.57
     },
     {
       "code": "66136",
@@ -344,7 +344,7 @@
     {
       "code": "76575",
       "nom": "Saint-Etienne-du-Rouvray",
-      "pourcentage": 25.0
+      "pourcentage": 40.0
     },
     {
       "code": "76711",
@@ -479,7 +479,7 @@
     {
       "code": "95680",
       "nom": "Villiers-le-Bel",
-      "pourcentage": 20.0
+      "pourcentage": 33.33
     }
   ]
 }
