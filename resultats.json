@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "01:06:15",
+  "mise_a_jour": "01:11:15",
   "communes": [
     {
       "code": "01053",
@@ -24,7 +24,7 @@
     {
       "code": "13055",
       "nom": "Marseille",
-      "pourcentage": 32.19
+      "pourcentage": 36.21
     },
     {
       "code": "13056",
@@ -139,7 +139,7 @@
     {
       "code": "38185",
       "nom": "Grenoble",
-      "pourcentage": 62.19
+      "pourcentage": 98.78
     },
     {
       "code": "38421",
